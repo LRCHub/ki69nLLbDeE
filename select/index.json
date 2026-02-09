@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "late",
+  "base_artist": "dodo",
+  "createdAt": "2026-02-09T05:49:04.245298Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Always Late (With Your Kisses)",
+      "artist": "Merle Haggard",
+      "has_synced": false,
+      "path": "select/01_Always_Late_(With_Your_Kisses)_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's A Little Too Late",
+      "artist": "Tanya Tucker",
+      "has_synced": false,
+      "path": "select/02_It's_A_Little_Too_Late_Tanya_Tucker.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It's A Little Too Late",
+      "artist": "Tanya Tucker",
+      "has_synced": true,
+      "path": "select/03_It's_A_Little_Too_Late_Tanya_Tucker.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It's A Little Too Late - 1996 Greatest Hits Version",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/04_It's_A_Little_Too_Late_-_1996_Greatest_Hits_Version_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It's A Little Too Late (1996 Greatest Hits Version)",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/05_It's_A_Little_Too_Late_(1996_Greatest_Hits_Version)_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "It's Too Late to Worry",
+      "artist": "Jo Dee Messina",
+      "has_synced": true,
+      "path": "select/06_It's_Too_Late_to_Worry_Jo_Dee_Messina.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love You Too Late",
+      "artist": "Cole Swindell",
+      "has_synced": true,
+      "path": "select/07_Love_You_Too_Late_Cole_Swindell.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love You Too Late",
+      "artist": "Cole Swindell",
+      "has_synced": true,
+      "path": "select/08_Love_You_Too_Late_Cole_Swindell.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One Promise Too Late",
+      "artist": "Reba McEntire",
+      "has_synced": false,
+      "path": "select/09_One_Promise_Too_Late_Reba_McEntire.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One Promise Too Late (Album Version)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/10_One_Promise_Too_Late_(Album_Version)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Late in the Evening",
+      "artist": "Paul Simon",
+      "has_synced": true,
+      "path": "select/11_Late_in_the_Evening_Paul_Simon.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "01 - Late In The Evening",
+      "artist": "Paul Simon",
+      "has_synced": true,
+      "path": "select/12_01_-_Late_In_The_Evening_Paul_Simon.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "It's Late",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/13_It's_Late_Queen.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "2 Lit 2 Late Interlude",
+      "artist": "Nicki Minaj",
+      "has_synced": false,
+      "path": "select/14_2_Lit_2_Late_Interlude_Nicki_Minaj.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Be Late, Don't Come Too Soon (feat. Tamia)",
+      "artist": "LL Cool J",
+      "has_synced": false,
+      "path": "select/15_Don't_Be_Late,_Don't_Come_Too_Soon_(feat._Tamia)_LL_Cool_J.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Late Night",
+      "artist": "Mac Miller",
+      "has_synced": false,
+      "path": "select/16_Late_Night_Mac_Miller.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "late",
+      "artist": "dodo",
+      "has_synced": false,
+      "path": "select/pl_01_late_dodo.txt"
+    }
+  ]
+}
